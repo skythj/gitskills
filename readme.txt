@@ -5,4 +5,9 @@ Git tracks changes of files.
 My stupid boss still prefers SVN11.
 gggg
 qqqq
+<<<<<<< HEAD
 Creating a new branch is quick and simple.
+=======
+Creating a new branch is quick.
+teeee
+>>>>>>> dev
